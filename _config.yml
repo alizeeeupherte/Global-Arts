@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 logo: global_art2.png
 description: global arts
+github:
+ is_project_page: false
