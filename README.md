@@ -14,13 +14,16 @@ It takes place in the rice fields of Bali, Indonesia
 ### Hopper reproduction
 Original painting "Nighthawks"
 
+
+
+
 ![](global_art3.png?raw=true)
 ### Sketch of exhibitions
 
 ![](global_art5.png?raw=true)
 ### Material research for a "cocooning" models
 
-![](dessins_technique?raw=true)
+![](dessins_techniques?raw=true)
 ### Technical drawings
 
 
