@@ -17,10 +17,10 @@ Original painting "Nighthawks"
 
 
 
-![](global_art3.png?raw=true)
-### Sketch of exhibitions
-
-![](global_art5.png?raw=true)
+![](1.png?raw=true)
+### Exhibition drawings 
+exhibitions
+![](2.png?raw=true)
 ### Material research for a "cocooning" models
 
 ![](dessins_techniques?raw=true)
