@@ -19,7 +19,7 @@ Original painting "Nighthawks"
 
 ![](D.png?raw=true)
 ### Exhibition drawings 
-exhibitions
+
 ![](2.png?raw=true)
 ### Material research for a "cocooning" models
 
