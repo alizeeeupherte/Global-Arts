@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/alizeeeupherte/Global-Arts/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](global_art0.png?raw=true)
+### Work with Chinese ink
 
-### Markdown
+![](global_art1?raw=true)
+### work of setting in motion according to personal patterns
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](global_art5,2.png?raw=true)
+### Belvedere in a natural environment
+It takes place in the rice fields of Bali, Indonesia
 
-```markdown
-Syntax highlighted code block
+![](global_art4.png?raw=true)
+### Hopper reproduction
+Original painting "Nighthawks"
 
-# Header 1
-## Header 2
-### Header 3
+![](global_art3.png?raw=true)
+### Sketch of exhibitions
 
-- Bulleted
-- List
+![](global_art5.png?raw=true)
+### Material research for a "cocooning" models
 
-1. Numbered
-2. List
+![](dessins_technique?raw=true)
+### Technical drawings
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+2014-2016
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alizeeeupherte/Global-Arts/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
