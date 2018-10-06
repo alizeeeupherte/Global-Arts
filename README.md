@@ -23,7 +23,7 @@ exhibitions
 ![](2.png?raw=true)
 ### Material research for a "cocooning" models
 
-![](dessins_techniques?raw=true)
+![](dessins_techniques.png?raw=true)
 ### Technical drawings
 
 
