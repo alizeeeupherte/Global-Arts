@@ -17,7 +17,7 @@ Original painting "Nighthawks"
 
 
 
-![](1.png?raw=true)
+![](D.png?raw=true)
 ### Exhibition drawings 
 exhibitions
 ![](2.png?raw=true)
