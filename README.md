@@ -4,7 +4,7 @@
 ### Work with Chinese ink
 
 ![](global_art1.png?raw=true)
-### work of setting in motion according to personal patterns
+### Work of setting in motion according to personal patterns
 
 ![](global_art5,2.png?raw=true)
 ### Belvedere in a natural environment
