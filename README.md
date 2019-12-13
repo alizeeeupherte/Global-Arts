@@ -4,6 +4,7 @@
 ### Work with Chinese ink
 
 ![](global_art1.png?raw=true)
+![](global_art2.png?raw=true)
 ### Work of setting in motion according to personal patterns
 
 ![](global_art5,2.png?raw=true)
