@@ -1,34 +1,34 @@
 
 
 ![](global_art0.png?raw=true)
-### Work with Chinese ink
+_Work with Chinese ink_
 
 ![](global_art1.png?raw=true)
 ![](global_art2.png?raw=true)
-### Work of setting in motion according to personal patterns
+_Work of setting in motion according to personal patterns_
 
 ![](global_art5,2.png?raw=true)
-### Belvedere in a natural environment
+_Belvedere in a natural environment_
 It takes place in the rice fields of Bali, Indonesia
 
 ![](global_art4.png?raw=true)
-### Hopper reproduction
+_Hopper reproduction_
 Original painting "Nighthawks"
 
 
 
 
 ![](D.png?raw=true)
-### Exhibition drawings 
+_Exhibition drawings_ 
 
 ![](2.png?raw=true)
-### Material research for a "cocooning" models
+_Material research for a "cocooning" models_
 
 ![](dessins_techniques.png?raw=true)
-### Technical drawings
+_Technical drawings_
 
 
-2014-2016
+
 
 
 
